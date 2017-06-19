@@ -7,6 +7,10 @@ body {
 	margin-left: 90px;
 	padding: 0px;
 }
+p {
+	font-size: 18px;
+	margin: 0px;
+}
 header {
 	background-color: #ebebeb;
 	color: #777;
@@ -25,8 +29,8 @@ nav {
 section {
 	background-color: #ebebeb;
 	color: #777;
-	width: 300px;
-	padding-top: 20px;
+	width: 540px;
+	padding-top: 30px;
 	padding-bottom: 20px;
 	float: left;
 
@@ -34,29 +38,17 @@ section {
 article {
 	background-color: #777;
 	color: #ebebeb;
+	width: 500px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-}
-
-aside {
-	background-color: #ebebeb;
-	color: #777;
-	padding-top: 20px;
-	height: 180px;
-	width: 300px;
-	float: right;
-	margin-bottom: 20px;
-}
-
-p {
-	font-size: 18px;
-	margin: 0px;
+	margin-left: 20px;
 }
 h1 {
 	font-size: 20px;
 	display: inline;
 	background-color: #ebebeb;
 	color: #777;
+	width: 450px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -65,6 +57,7 @@ h2 {
 	display: inline;
 	background-color: #ebebeb;
 	color: #777;
+	width: 450px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -73,14 +66,26 @@ h3 {
 	display: inline;
 	background-color: #ebebeb;
 	color: #777;
+	width: 450px;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
 .pbox {
 	background-color: #ebebeb;
 	color: #777;
+	width: 450px;
 	padding-top: 10px;
-	padding-bottom: 10px;	
+	padding-bottom: 10px;
+	margin-left: 20px;	
+}
+aside {
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 30px;
+	height: 250px;
+	width: 400px;
+	float: right;
+	margin-bottom: 20px;
 }
 footer {
 	background-color: #ebebeb;
