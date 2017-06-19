@@ -9,19 +9,25 @@ body {
 header {
 	background-color: #ebebeb;
 	color: #777;
-	
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 nav {
 	background-color: #ebebeb;
-	color: #777;	
-}
-section {
-	background-color: #ebebeb;
-	width: 495px;
+	color: #777;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 20px;
 }
 section {
 	background-color: #ebebeb;
 	color: #777;
+	width: 495px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
 }
 article {
 	background-color: #777;
@@ -31,10 +37,14 @@ article {
 aside {
 	background-color: #ebebeb;
 	color: #777;
+	padding-top: 20px;
 }
 footer {
 	background-color: #ebebeb;
 	color: #777;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 20px;
 }
 p {
 	font-size: 18px;
