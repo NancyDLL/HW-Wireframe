@@ -4,6 +4,7 @@ body {
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	text-align: center;
 	margin: 0px;
+	margin-left: 90px;
 	padding: 0px;
 }
 header {
@@ -27,17 +28,22 @@ section {
 	width: 495px;
 	padding-top: 20px;
 	padding-bottom: 20px;
+	float: left;
 
 }
 article {
 	background-color: #777;
 	color: #ebebeb;
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
 
 aside {
 	background-color: #ebebeb;
 	color: #777;
 	padding-top: 20px;
+	height: 180px;
+
 }
 footer {
 	background-color: #ebebeb;
@@ -49,4 +55,28 @@ footer {
 p {
 	font-size: 18px;
 	margin: 0px;
+}
+h1 {
+	font-size: 24px;
+	display: inline;
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+h2 {
+	font-size: 24px;
+	display: inline;
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+h3 {
+	font-size: 24px;
+	display: inline;
+	background-color: #ebebeb;
+	color: #777;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
