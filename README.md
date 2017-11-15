@@ -1,7 +1,9 @@
 # HW-Wireframe
 ## Week 1.1 Assignment - Building a Wireframe
+Completed assignment URL - [HW-Wireframe](https://nancydll.github.io/HW-Wireframe)
 ### Overview
 Students were tasked to build a web design skeleton using HTML/CSS. The completed work should look just like the image below:
+![Final Layout](images/Easier-Layout.png)
 
 ### Specificatons
 1. HTML should have each of the following sections: 
